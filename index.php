@@ -17,6 +17,7 @@
 </ul>
 
 <!-- Contenido principal -->
+<h1>Mrgarita</h1>
 <h1>Mi primera página con estilo</h1>
 
 <p>¡Bienvenido a mi primera página con estilo!
